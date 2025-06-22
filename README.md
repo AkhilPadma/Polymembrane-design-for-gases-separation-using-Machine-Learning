@@ -1,9 +1,5 @@
 # 🧠 Membrane Design Using Machine Learning
 
-## Capstone Project by Bhuvana Chowdary, Palla Yashwanth, and Padma Akhil
-
----
-
 ## 📍 About the Project
 
 This project leverages Machine Learning (ML) to accelerate the design and screening of polymer membranes for efficient gas separation. By modeling relationships between molecular structure, temperature, pressure, and gas permeability/selectivity, we aim to create a scalable tool to assist researchers in identifying promising materials faster and more reliably.
@@ -94,3 +90,7 @@ This project leverages Machine Learning (ML) to accelerate the design and screen
 
 Presented as a Poster at the GCDI 2025 Conference (March 6–8).  
 A detailed report is available in this repository.
+
+
+![Workflow](RDKIT.png)
+![Methodology](Methodology.png)
