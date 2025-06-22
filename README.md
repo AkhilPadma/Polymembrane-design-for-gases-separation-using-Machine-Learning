@@ -19,7 +19,7 @@ This project leverages Machine Learning (ML) to accelerate the design and screen
 
 ### Overall Workflow
 
-![image1](image1)
+![Methodology](Methodology.png)
 
 1. **SMILES string for a single polymer repeating unit**  
    Encode polymer chemistry using SMILES.
@@ -36,7 +36,7 @@ This project leverages Machine Learning (ML) to accelerate the design and screen
 
 ### Step-by-Step Methodology
 
-![image2](image2)
+![Workflow](RDKIT.png)
 
 - **Literature Survey:** Researching existing studies and methodologies.
 - **Problem Definition:** Defining project objectives and constraints.
@@ -92,5 +92,5 @@ Presented as a Poster at the GCDI 2025 Conference (March 6–8).
 A detailed report is available in this repository.
 
 
-![Workflow](RDKIT.png)
-![Methodology](Methodology.png)
+
+
